@@ -21,4 +21,4 @@ Chiedere all’utente di inserire una parola
 Creare una funzione per capire se la parola inserita è palindroma
 
 chiediamo all'utente di inserire una parola con il prompt,
-dopo creo una funzione dove inserisco la parola al contrario e se la lettera non varia allora e true quindi palindroma.
+dopo creo una funzione dove inserisco la parola e la faccio partire da -1 cosi da uscirmi al contrario, se la lettera non varia allora e true quindi palindroma.

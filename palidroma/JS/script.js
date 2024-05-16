@@ -1,5 +1,5 @@
 
-// const myPaliWord = prompt('type a word');
+ const myPaliWord = prompt('type a word');
 
 function reversedString(string){
     let newString = '';
@@ -8,12 +8,16 @@ function reversedString(string){
         newString += string[i];
     }
     return newString;   
+
 } 
-reversedString('hello');
-console.log(string)
+    if (reversedString(myPaliWord) === myPaliWord){
+        console.log('E una parola palindroma')
+    } else{
+        console.log('Non e una parola palindroma')
+    }
 
 
-function isItPalindromWord(word){
-    
-}
+
+
+
 
