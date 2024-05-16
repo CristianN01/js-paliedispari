@@ -17,8 +17,24 @@ Scriviamo sempre solo un pezzetto di codice alla volta, se funziona allora andia
 
 <!-- ? SCOMPONIAMO IL PRIMO ESERCIZIO -->
 
-Chiedere all’utente di inserire una parola
-Creare una funzione per capire se la parola inserita è palindroma
+ <!-- Chiedere all’utente di inserire una parola
+Creare una funzione per capire se la parola inserita è palindroma -->
 
 chiediamo all'utente di inserire una parola con il prompt,
 dopo creo una funzione dove inserisco la parola e la faccio partire da -1 cosi da uscirmi al contrario, se la lettera non varia allora e true quindi palindroma.
+
+<!-- ? SCOMPONIAMO IL SECONDO ESERCIZIO -->
+
+L’utente sceglie pari o dispari e inserisce un numero da 1 a 5.
+
+Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzione).
+
+Sommiamo i due numeri Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
+
+Dichiariamo chi ha vinto.
+
+creiamo un prompt dove l'utente scegliera se giocare pari o dispari, poi inserira un numero da 1 a 5.
+poi creo una funzione che generi un numero random da 1 a 5 per il computer.
+dopodiche creo un altra funzione che somma i due numeri del cliente e del computer.
+alla fine dichiaro con un if chi ha vinto dei due 
+
