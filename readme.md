@@ -16,3 +16,9 @@ Scriviamo sempre in italiano i passaggi che vogliamo fare
 Scriviamo sempre solo un pezzetto di codice alla volta, se funziona allora andiamo avanti.
 
 <!-- ? SCOMPONIAMO IL PRIMO ESERCIZIO -->
+
+Chiedere all’utente di inserire una parola
+Creare una funzione per capire se la parola inserita è palindroma
+
+chiediamo all'utente di inserire una parola con il prompt,
+dopo creo una funzione dove inserisco la parola al contrario e se la lettera non varia allora e true quindi palindroma.
